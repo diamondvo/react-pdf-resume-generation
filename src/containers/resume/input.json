@@ -1,0 +1,206 @@
+{
+  "infor": {
+    "email": "email@gmail.com",
+    "address": "District 1, HCM City",
+    "phone": "(+84) 879 229 354",
+    "image": "https://www.w3schools.com/howto/img_avatar2.png"
+  },
+  "skill": [
+    {
+      "type": "Technical",
+      "details": [
+        {
+          "title": "Java core, Spring, Spring boot",
+          "level": 4
+        },
+        {
+          "title": "JavaScript, AngularJS, JQuery",
+          "level": 3
+        },
+        {
+          "title": "Database (PostgresSQL, MySQL, Redis, Cassandra)",
+          "level": 3
+        },
+        {
+          "title": "DevOps (Google Cloud Services, Linux, Kubernetes, Docker)",
+          "level": 3
+        },
+        {
+          "title": "Golang",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "type": "Domains",
+      "details": [
+        {
+          "title": "Logistic",
+          "level": 3
+        },
+        {
+          "title": "Insurrance",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "type": "Softskill",
+      "details": [
+        {
+          "title": "Problem solving",
+          "level": 4
+        },
+        {
+          "title": "Communication",
+          "level": 3
+        },
+        {
+          "title": "Time management",
+          "level": 3
+        },
+        {
+          "title": "Presentation",
+          "level": 3
+        }
+      ]
+    }
+  ],
+  "education": {
+    "school": "ABC University",
+    "location": "Ho Chi Minh",
+    "degree": "Bachelor Degree",
+    "rangeTime": "2017-2020"
+  },
+  "experience": [
+    {
+      "company": "Last company",
+      "date": "03-2019 - Present",
+      "position": "Senior Software engineer",
+      "details": [
+        {
+          "type": "Industry",
+          "des": [
+            "Logistic, ERP"
+          ],
+          "dataType": "singleText"
+        },
+        {
+          "type": "Skillset utilized",
+          "des": [
+            "Java: Play framework, Undertown, Jdbc",
+            "Golang: Echo framework",
+            "Front-end: ES6, Bootstrap, JQuery",
+            "Database: PostgresSQL",
+            "Pub-Sub: Redis",
+            "Devops: Linux, Docker, Kubernetes, Google cloud services",
+            "Logging stack: Elastic search, Kibana, Logstash",
+            "Monitoring: Telegraf ( input with StatsD, output InfluxDB), Grafana",
+            "Design system as Microservices"
+          ],
+          "dataType": "text"
+        },
+        {
+          "type": "Responsibilities",
+          "des": [
+            "COD-Topup system: support received cash on delivery and top-up the transaction for shipper on Station",
+            "Accredits system: arrears the shipper's debt money",
+            "SSO: single sign on for all employee",
+            "Messenger system: The system notifies for all employee via multiple channels such as telegram, email, firebase",
+            "Renew contract: Auto-renewing contract for employee"
+          ],
+          "dataType": "text"
+        }
+      ]
+    },
+    {
+      "company": "Startup",
+      "date": "04-2018 to 02-2019 ",
+      "position": "Backend team leader",
+      "details": [
+        {
+          "type": "Industry",
+          "des": [
+            "Service of transportation"
+          ],
+          "dataType": "singleText"
+        },
+        {
+          "type": "Description",
+          "des": [
+            "Project management agencies, who buy advertainment in a taxi company. Manage campaign, driver, car’s history… "
+          ],
+          "dataType": "singleText"
+        },
+        {
+          "type": "Skillset utilized",
+          "des": [
+            "Backend: Java, Spring framework, Spring boot, Hibernate, maintain python components",
+            "Frontend: AngularJs, Bootstrap",
+            "Database: PostgresSQL, cassandra",
+            "Pub/sub: Redis",
+            "DevOps: CI process with Jenkins, deploy with Docker, docker swarm, AWS"
+          ],
+          "dataType": "text"
+        },
+        {
+          "type": "Responsibilities",
+          "des": [
+            "Clean the user story, create time-line, build Devops flow, delivery product",
+            "Build backend structure project as Microservices architecture, implement the features",
+            "Manage team",
+            "Support integrate with front-end",
+            "Delivery product for agencies"
+          ],
+          "dataType": "text"
+        },
+        {
+          "type": "Refer",
+          "des": [
+            "https://abc.test.vn/",
+            "https://abc.test.vn"
+          ],
+          "dataType": "link"
+        }
+      ]
+    },
+    {
+      "company": "First company",
+      "date": "03-2016 to 03-2018",
+      "position": "Fresher and Software engineer",
+      "details": [
+        {
+          "type": "Industry",
+          "des": [
+            "Entertainment, real estate "
+          ],
+          "dataType": "singleText"
+        },
+        {
+          "type": "Description",
+          "des": [
+            "Participate in training programs and join the company’s project, build outsourcing projects for client "
+          ],
+          "dataType": "singleText"
+        },
+        {
+          "type": "Skillset utilized",
+          "des": [
+            "Backend: Java, Spring framework, Spring boot, Hibernate",
+            "Frontend: AngularJs, Bootstrap",
+            "Database: PostgresSQL, Mysql"
+          ],
+          "dataType": "text"
+        },
+        {
+          "type": "Responsibilities",
+          "des": [
+            "Working with team implement feature",
+            "Testing and bugs fixing "
+          ],
+          "dataType": "text"
+        }
+      ]
+    }
+  ]
+}
