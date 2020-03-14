@@ -41,15 +41,15 @@ const styles = StyleSheet.create({
     width: 8,
     height: 8,
     borderRadius: 50,
-    border: '1 solid #377da2',
+    border: '1 solid #1A1620',
     marginRight: 2
   },
   fill: {
     width: 8,
     height: 8,
-    backgroundColor: '#377da2',
+    backgroundColor: '#1A1620',
     borderRadius: 50,
-    border: '1 solid #377da2',
+    border: '1 solid #1A1620',
     marginRight: 2
   },
   line: {

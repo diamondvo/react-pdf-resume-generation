@@ -12,7 +12,7 @@ import Education from './Education';
 import Experience from './Experience';
 import Skills from './Skills';
 import Profile from './Profile';
-import * as resumeData from './input.json';
+import * as resumeData from '../common/input.json';
 
 const styles = StyleSheet.create({
   page: {
@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
   },
   leftColumn: {
     flexDirection: 'column',
-    backgroundColor: '#D3D8CD',
+    backgroundColor: '#e7e9ee',
     paddingLeft: 20,
     paddingRight: 20,
     width: 220,

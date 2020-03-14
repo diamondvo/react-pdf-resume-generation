@@ -1,0 +1,206 @@
+{
+  "infor": {
+    "name": "Cuong Vo Thi Kim",
+    "position": "Front end developer",
+    "email": "vokimcuong1202@gmail.com",
+    "address": "Phan Van Tri, Go Vap district, HCM city",
+    "phone": "(+84) 344 710 479",
+    "image": "https://scontent-xsp1-2.xx.fbcdn.net/v/t1.0-9/89542752_1846395138830131_903806142944116736_n.jpg?_nc_cat=111&_nc_sid=8024bb&_nc_ohc=3-LvTDdmaIcAX8KAGim&_nc_ht=scontent-xsp1-2.xx&oh=93cdc2d30f1c32d8fdf883cee895c2c8&oe=5E926E22"
+  },
+  "skill": [
+    {
+      "type": "Technical",
+      "details": [
+        {
+          "title": "JavaScript",
+          "level": 3
+        },
+        {
+          "title": "HTML",
+          "level": 3
+        },
+        {
+          "title": "CSS",
+          "level": 3
+        },
+        {
+          "title": "Java",
+          "level": 2
+        },
+        {
+          "title": "Database",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "type": "Softskill",
+      "details": [
+        {
+          "title": "Problem solving",
+          "level": 3
+        },
+        {
+          "title": "Communication",
+          "level": 3
+        },
+        {
+          "title": "Time management",
+          "level": 3
+        },
+        {
+          "title": "Presentation",
+          "level": 3
+        }
+      ]
+    }
+  ],
+  "education": {
+    "school": "Nong Lam University",
+    "location": "Ho Chi Minh",
+    "degree": "Bachelor Degree",
+    "rangeTime": "2013-2017"
+  },
+  "experience": [
+    {
+      "company": "Codebox Solutions",
+      "date": "06-2019 - Present",
+      "position": "Front end developer",
+      "details": [
+        {
+          "type": "Description",
+          "des": [
+            "These projects relating to visualize data to build charts such as: scatter, line, area, bar, pie, radar, boxplot, and 3D scatter chart by using echart library. Anyway, building and reusing some other privacy libraries such as common UI and common table. All of them are used ReactJS to develop and remain"
+          ],
+          "dataType": "text"
+        },
+        {
+          "type": "Responsibilities",
+          "des": [
+            "Implement UI/UX",
+            "Build common libraries",
+            "Visualize data to build charts",
+            "Fix bugs"
+          ],
+          "dataType": "text"
+        },
+        {
+          "type": "Technologies",
+          "des": [
+            "ReactJS library",
+            "Echart library",
+            "Ag-grid React",
+            "Reselect lirary",
+            "BlueprintJS library",
+            "Antd library"
+          ],
+          "dataType": "text"
+        }
+      ]
+    },
+    {
+      "company": "FPT software",
+      "date": "10-2018 to 05-2019 ",
+      "position": "Junior Front end",
+      "details": [
+        {
+          "type": "Description",
+          "des": [
+            "This project helps users centralize big data with Elasticsearch and Kibana dashboard. It is able to analyze users trend based on user actions so SEO is easier to implement."
+          ],
+          "dataType": "singleText"
+        },
+        {
+          "type": "Responsibilities",
+          "des": [
+            "Create map by using library",
+            "Integrate data into map created",
+            "Fix bugs",
+            "Upgrate Angular 7",
+            "Delivery product for agencies"
+          ],
+          "dataType": "text"
+        },
+        {
+          "type": "Technologies",
+          "des": [
+            "Angular 6 framework",
+            "Java Spring framework",
+            "Bootstrap 4 library",
+            "Highcharts library"
+          ],
+          "dataType": "text"
+        }
+      ]
+    },
+    {
+      "company": "FPT software",
+      "date": "3-2018 to 10-2018 ",
+      "position": "Junior Front end",
+      "details": [
+        {
+          "type": "Description",
+          "des": [
+            "This project helps traders buy and sell bitcoins using different fiat currencies. The traders always get price changes in real time and manage their wallets. The system uses microservice for backend development and Angular 4 for UI development. They help make the best performance for users."
+          ],
+          "dataType": "singleText"
+        },
+        {
+          "type": "Responsibilities",
+          "des": [
+            "Create original UI with HTML and SCSS",
+            "Integrate with back-end API (Restful Web Service)",
+            "Fix bugs"
+          ],
+          "dataType": "text"
+        },
+        {
+          "type": "Technologies",
+          "des": [
+            "Angular 4 framework",
+            ".NET framework",
+            "SQL Server",
+            "Angular material library"
+          ],
+          "dataType": "text"
+        }
+      ]
+    },
+    {
+      "company": "TMA Solutions",
+      "date": "03-2017 to 02-2018",
+      "position": "Fresher and Software engineer",
+      "details": [
+        {
+          "type": "Description",
+          "des": [
+            "This project is aimed at helping administration manage healthcare appointments booking. The system is managed under high permissions and roles. Thanks to using React and Redux framework, the system becomes usable and independent."
+          ],
+          "dataType": "singleText"
+        },
+        {
+          "type": "Responsibilities",
+          "des": [
+            "Create UI by using components",
+            "Custom UI with SCSS",
+            "Integrate with back-end API (Restful Web Service)",
+            "Fix bugs",
+            "Implement unit testing",
+            "Support back-end"
+          ],
+          "dataType": "text"
+        },
+        {
+          "type": "Technologies",
+          "des": [
+            "React library",
+            "Redux library",
+            "Java, Spring framework",
+            "MySQL"
+          ],
+          "dataType": "text"
+        }
+      ]
+    }
+  ]
+}

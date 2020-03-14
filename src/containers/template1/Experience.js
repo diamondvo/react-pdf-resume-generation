@@ -118,12 +118,12 @@ const ExperienceEntry = ({ company, details, position, date }) => {
 const Experience = props => (
   <View style={styles.container}>
     <Title>Experience</Title>
-    {props.experience.map(({ company, date, details, position }) => (
+    {props.experience.map(({ company, date, details, position }, index) => (
       <ExperienceEntry
         company={company}
         date={date}
         details={details}
-        key={company + position}
+        key={`${company}-${position}-${index}`}
         position={position}
       />
     ))}

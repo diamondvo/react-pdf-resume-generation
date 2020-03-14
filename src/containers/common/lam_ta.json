@@ -1,9 +1,11 @@
 {
   "infor": {
-    "email": "email@gmail.com",
-    "address": "District 1, HCM City",
-    "phone": "(+84) 879 229 354",
-    "image": "https://www.w3schools.com/howto/img_avatar2.png"
+    "name": "Ta Ngoc Bao Lam",
+    "position": "Senior Backend Engineer",
+    "email": "baolam0307@gmail.com",
+    "address": "Thu Duc District, HCM city",
+    "phone": "(+84) 352 772 112",
+    "image": "https://scontent-hkt1-1.xx.fbcdn.net/v/t1.0-9/89921472_1847214762081502_8489350349168050176_n.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=F1OZbGXtRsEAX_yaOVy&_nc_ht=scontent-hkt1-1.xx&oh=6f3f2b71a24be3046569570ac461b60f&oe=5E91CB23"
   },
   "skill": [
     {
@@ -32,19 +34,6 @@
       ]
     },
     {
-      "type": "Domains",
-      "details": [
-        {
-          "title": "Logistic",
-          "level": 3
-        },
-        {
-          "title": "Insurrance",
-          "level": 3
-        }
-      ]
-    },
-    {
       "type": "Softskill",
       "details": [
         {
@@ -67,15 +56,15 @@
     }
   ],
   "education": {
-    "school": "ABC University",
+    "school": "Nong Lam University",
     "location": "Ho Chi Minh",
     "degree": "Bachelor Degree",
-    "rangeTime": "2017-2020"
+    "rangeTime": "2013-2017"
   },
   "experience": [
     {
-      "company": "Last company",
-      "date": "03-2019 - Present",
+      "company": "Scommerce",
+      "date": "03/2019 - Present",
       "position": "Senior Software engineer",
       "details": [
         {
@@ -115,7 +104,7 @@
     },
     {
       "company": "Startup",
-      "date": "04-2018 to 02-2019 ",
+      "date": "04/2018 to 02/2019 ",
       "position": "Backend team leader",
       "details": [
         {
@@ -157,16 +146,16 @@
         {
           "type": "Refer",
           "des": [
-            "https://abc.test.vn/",
-            "https://abc.test.vn"
+            "https://adsgo.vn",
+            "https://client.adsgo.vn"
           ],
           "dataType": "link"
         }
       ]
     },
     {
-      "company": "First company",
-      "date": "03-2016 to 03-2018",
+      "company": "FPT Software",
+      "date": "09/2016 - 03/2018",
       "position": "Fresher and Software engineer",
       "details": [
         {
